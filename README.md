@@ -57,7 +57,7 @@ motion, which helped inform later design decisions. The cost was also unrealisti
 
 &emsp;&emsp;&emsp;<img width="324" height="433" alt="image" src="https://github.com/user-attachments/assets/78368da4-fdb8-4883-a558-a8bb4209f131" /> &emsp;&emsp;&emsp;&emsp;
 <img width="322" height="429" alt="image" src="https://github.com/user-attachments/assets/a08baff7-04b4-4c80-a588-bb5b8d59651b" />
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; fig 3. Back of Hand &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;  fig 4. Inside of Hand
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; fig 3. Back of Hand &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;  fig 4. Inside of Hand
 <h3></h3>
 
 
