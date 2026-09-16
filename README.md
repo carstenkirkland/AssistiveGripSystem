@@ -122,7 +122,7 @@ The figure below is the final component my subsystem was involved in. Me and Wes
 </p> 
 <p align="center">fig 8. Final Universal Tool Strap With Handle Magnet Mount</p>
 <h3></h3>
-Finally, we have our poster that does a good job showcasing the project in its entirety. Unfortunately we forgot to take real world photos for the final implemented components we created as we had them with use during the showcase. 
+Finally, we have our poster that does a good job showcasing the project in its entirety. Unfortunately we forgot to take real world photos for the final implemented components we created as we had them with us during the showcase. 
 <h3></h3>
 <img width="3000" height="1800" alt="image" src="https://github.com/user-attachments/assets/b2a2cd99-7de2-4ab3-b1e1-f8181bfc8a4f" />
 <p align="center">fig 9. Final Poster</p>
